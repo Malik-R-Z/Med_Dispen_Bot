@@ -1,4 +1,4 @@
-#Creating an automatic cannabis ordering machine
+#Creating an Medical Dispensary ordering machine
 
 #This is for verification
 print("Hello, welcome to Red Garden Pharm.")
